@@ -1,0 +1,52 @@
+body
+{
+    background-image: url("pic1.jpg");
+}
+.header1 p
+{
+    font-size: 50px;
+    margin-bottom: 10px; 
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategray;
+}
+.main1 p
+{
+    font-size : 30px;
+    font-style: italic;
+    text-align: center;
+    margin: 10px;
+}
+.main1 .main2
+{
+    display: inline-block;
+    text-align: center;
+    margin-left: 25%;
+    padding: 2%;
+    font-size: 100%;
+    border-radius: 10px;
+    background-image: url("pic2.jpg");
+}
+.main1 button[type = "submit"]
+{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 25%;
+    padding: 2%;
+    width : 50%;
+    height: 20%;
+    font-size: 100%;
+    border-radius: 10px;
+    background-image: url("pic2.jpg");
+}
+form
+{
+    margin-left: 32%;
+    margin-right: 32%;;
+    margin-top: 1%;
+    padding-bottom: 5%;
+    background-color:lightblue;
+    border: 1px solid black;
+    opacity: 0.7;
+    filter: alpha(opacity=60); 
+}

@@ -1,0 +1,28 @@
+.header1
+{
+    padding: 2%;
+    margin: -4%;
+    margin-left: -2%;
+    margin-right: -2%;
+    background-image: url("pic1.jpg"); 
+    font-size : 40px;
+    font-style: italic;
+    text-align: left; 
+}
+
+.footer1
+{
+    background-image: url("pic1.jpg");
+    padding:7%;
+    margin-top: 1000px;
+    font-style: italic;
+    text-align: center; 
+}
+button[type = "submit"]
+{
+    text-align: center;
+    margin-left: 90%;
+    width : 10%;
+    font-size: 50%;
+    border-radius: 10px;
+}
